@@ -228,4 +228,4 @@ Low standard deviation (0.03) confirms the model is **stable across different da
 
 **Vikas Ajay Vishwakarma**
 BSc IT Student | Aspiring Data Scientist
-🔗 [GitHub](https://github.com/codewithvikas96-ui) | 🎯 [Fiverr](https://www.fiverr.com/vikas_vish23)
+🔗 [GitHub](https://github.com/codewithvikas96-ui) | 💼 [Linkedin](https://www.linkedin.com/in/vikas-vishwakarma-62959a387)
